@@ -27,4 +27,4 @@ Here's a walkthrough of implemented user stories:
 
 https://submissions.us-east-1.linodeobjects.com/ios_university/8shy8SLw.gif
 
-<iframe src="https://giphy.com/embed/n2gspDjygpBTcpyZub" width="266" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/twitter1-n2gspDjygpBTcpyZub">via GIPHY</a></p>
+<img src="https://giphy.com/embed/n2gspDjygpBTcpyZub" width="266" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/twitter1-n2gspDjygpBTcpyZub">via GIPHY</a></p>
